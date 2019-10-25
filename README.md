@@ -1,2 +1,2 @@
 # brandenburfizer
-modulates normal speech to a nice gangsterish dialect in the brandenburg style
+modulates normal speech to a nice gangsterish brandenburg stylish dialect.
